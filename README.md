@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Deloitte<br><br>🌱 I’m currently learning Nest JS<br><br>💬 Ask me about HTML,CSS,JS,REACT JS, NEXT JS,NODE JS<br><br>📫 How to reach me azaruddin1307@gmail.com<br><br>⚡ Fun fact backbencher
+🔭 I’m currently working at Deloitte🟢<br><br>🌱 I’m currently learning Nest JS<br><br>💬 Ask me about HTML,CSS,JS,REACT JS, NEXT JS,NODE JS<br><br>📫 How to reach me azaruddin1307@gmail.com<br><br>⚡ Fun fact backbencher
 
 
 ## 🌐 Socials:
